@@ -1,0 +1,4 @@
+/.dist/
+.Makefile.swp
+/test-build-par.lst
+/test_log/
